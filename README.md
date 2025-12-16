@@ -1,5 +1,5 @@
-# Hello! Welcome to my Github profile. :sunglasses:
-## I'm Geovana⚡
+# Hi! Welcome to my Github profile.
+## I'm Geovana
 I'm a computer science student!
 I'm learning about Fullstack Java now, but I'm really willing to learn more about my goals (Cibersecurity and Data Science). :rocket:
 
